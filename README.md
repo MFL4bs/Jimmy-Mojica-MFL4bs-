@@ -74,7 +74,7 @@
       <kbd>Mobile</kbd>
       <br>
       <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" alt="swift" title="SwiftUI"/>
+     SOON!!
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
