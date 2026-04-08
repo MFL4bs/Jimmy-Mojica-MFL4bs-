@@ -98,7 +98,6 @@
       <kbd>Automation, Data Science & AI</kbd>
       <br>
       <br>
-      <img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
     </kbd>
     <kbd>
