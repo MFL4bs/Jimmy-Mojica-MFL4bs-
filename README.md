@@ -1,5 +1,5 @@
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=MFL4bs&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=MFL4bs&style=plastic&color=blueviolet" alt = "Profile Views"/> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -24,7 +24,7 @@
 </div>
 
 <details>
-<summary>About me</summary>
+<summary>SOBRE MI</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
@@ -32,9 +32,8 @@
 
 ```js
 /**
- * Represents me.
+ * Me representa.
  *
- * @constructor
  * @param {string} Ubicacion - El Hatillo, Antioquia, Colombia.
  * @param {string} Idioma - Español, Ingles, Portugues.
  * @param {string} Especializacion - Frontend, Electronica y Telecomunicaciones.
@@ -45,7 +44,7 @@
  * @param {string} Fuerzas - Determinado y Esforzado.
  * @param {string} Debilidad - Timidez.
  *
- * @returns {Object} Jimmy Mojica.
+ *  Jimmy Mojica Florez.
  */
 ```
 
@@ -54,7 +53,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>TOOLS</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -138,7 +137,7 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>G STATS</summary>
   <br>
   <p align="center">
  <a href="https://stats.hyo.dev/stats/MFL4bs"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=MFL4bs" width="600" /></a>
