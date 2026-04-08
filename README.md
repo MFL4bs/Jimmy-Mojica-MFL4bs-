@@ -63,6 +63,9 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
+		<img width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="ino" title="Arduino"/>
+		<img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" alt="lua" title="Lua"/>
+		<img width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" title="PHP"/> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
@@ -88,9 +91,8 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
     </kbd>
     <br>
     <br>
@@ -98,7 +100,9 @@
       <kbd>Automation, Data Science & AI</kbd>
       <br>
       <br>
+		<img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="btp" title="Bootstrap"/> 
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
+		<img width="30px" src="https://avatars.githubusercontent.com/u/161781182?s=200&v=4" alt="gmn" title="Gemini"/> 
     </kbd>
     <kbd>
       <kbd>Operating System, Networking & Deployment</kbd>
@@ -150,9 +154,8 @@
 </div>
 
 <div align=center>
- <a href="https://www.linkedin.com/in/jimmy-andr%C3%A9s-de-jesus-mojica-florez-73a84b26a/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:jimmytomojica@gmail.com?subject=Hola&body=Sending%20this%20to%20Work%20with%20You" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://steamcommunity.com/profiles/76561199105479321" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
+ <a href="https://www.linkedin.com/in/jimmy-andr%C3%A9s-de-jesus-mojica-florez-73a84b26a/" target="_blank"><img width="100px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" /></a>
+<a href="mailto:jimmytomojica@gmail.com?subject=Hola&body=Sending%20this%20to%20Work%20with%20You" target="_blank"><img width="100px" alt="Email" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" /></a>
 </div>
 
 
