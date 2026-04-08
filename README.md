@@ -39,7 +39,7 @@
  * @param {string} Idioma - Español, Ingles, Portugues.
  * @param {string} Especializacion - Frontend, Electronica y Telecomunicaciones.
  * @param {string} Intereces - AI, Automatizacion y Domotica, .
- * @param {string} Hobbies - Trekking, Reading, gaming & playing music.
+ * @param {string} Hobbies - Futbol, Lectura, Videojuegos y Tocar y Escuchar música.
  * @param {string} Educacion - Ingenieria Electronica y Telecomunicaciones, Universidad Autonoma del Caribe, Barranquilla.
  * @param {string} Accesible - Sí, si quieres colaborar en proyectos interesantes, no dudes en ponerte en contacto conmigo..
  * @param {string} Fuerzas - Determinado y Esforzado.
