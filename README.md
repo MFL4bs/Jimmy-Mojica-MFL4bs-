@@ -121,6 +121,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
+		<img width="30px" src="https://avatars.githubusercontent.com/u/192691831?s=48&v=4"  alt="TRAE" title="Trae"/>
   </kbd>
      <kbd>
       <kbd>Game Development</kbd>
