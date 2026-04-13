@@ -1,6 +1,11 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=MFL4bs&style=plastic&color=blueviolet" alt = "Profile Views"/> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </p>
+<img width="1363" height="633" alt="image" src="https://github.com/user-attachments/assets/aefb34de-53a3-4e78-9c10-c6a8a9c1d6f3" />
+<img width="1365" height="611" alt="image" src="https://github.com/user-attachments/assets/af915ac6-2c9d-45e3-abad-33c051d0ae76" />
+<img width="1365" height="640" alt="image" src="https://github.com/user-attachments/assets/3eb1522f-1cb8-42e3-8360-25e7892befeb" />
+
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
